@@ -116,7 +116,7 @@ ProjectData.xlsx
 
 ## ✅ Author
 
-* Name: *Antonije Jojic*
+**Antonije Jojic**
 Junior QA Software Tester
 ---
 
