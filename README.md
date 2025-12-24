@@ -118,10 +118,12 @@ ProjectData.xlsx
 
 **Antonije Jojic**
 Junior QA Software Tester
+
 ---
 
 📝 License
 * This project was created for learning and practice purposes in Selenium test automation.
+No license is currently applied.
 
 ---
 
