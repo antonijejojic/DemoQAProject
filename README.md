@@ -101,3 +101,28 @@ ProjectData.xlsx
 
 ---
 
+
+## ▶️ How to Run the Tests
+
+1. Open the project in **IntelliJ IDEA**
+2. Make sure the following are installed:
+
+   * Java
+   * Maven
+3. Run tests by:
+   * Right-clicking on a test class → **Run**
+
+---
+
+## ✅ Author
+
+* Name: *Antonije Jojic*
+Junior QA Software Tester
+---
+
+📝 License
+* This project was created for learning and practice purposes in Selenium test automation.
+
+---
+
+
